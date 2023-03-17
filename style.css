@@ -4,7 +4,7 @@
 }
 
 .cabeçalho{
-background-color: #50b100;
+background-color: #ba68c8;
 color: #ffffff;
 display: flex;
 justify-content: space-around;
@@ -20,4 +20,8 @@ padding: 24px 0;
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
+}
+
+.petshop-imagem{
+    width: 25%;
 }
